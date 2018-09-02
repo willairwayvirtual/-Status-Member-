@@ -1,1 +1,1 @@
-Text = "Hello " & txtUsername.Text & " " & Status & " Member "
+.Text = "Hello " & txtUsername.Text & " " & Status & " Member "
