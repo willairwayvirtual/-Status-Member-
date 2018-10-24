@@ -1,1 +1,3 @@
-.Text = "Hello " & txtUsername.Text & " " & Status & " Member "
+ Form2.Label1.Text = "Hello " & txtUsername.Text & " " & Status & " Member "
+
+ Form2.Label1.Text = "Hello " & txtUsername.Text & " " & Status & " Member "
