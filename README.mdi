@@ -1,3 +1,3 @@
- Form2.Label1.Text = "Hello " & txtUsername.Text & " " & Status & " Member "
+Form2.Label1.Text = "Hi " & txtUsername.Text & " " & Status & " Member " & "Total Flying Time " & totalHours &
+                " Hours Last flight " & lastflight
 
- Form2.Label1.Text = "Hello " & txtUsername.Text & " " & Status & " Member "
